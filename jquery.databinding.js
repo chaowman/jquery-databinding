@@ -1,4 +1,4 @@
-﻿/*!
+/*!
 * jQuery DataBinding V1.0
 * https://github.com/chaowman/jquery-databinding
 *
